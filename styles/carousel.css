@@ -6,6 +6,11 @@
       margin-bottom: 60px;
     }
 
+    .carousel-inner {
+      max-width: 1280px;
+      margin: 0 auto
+    }
+
     .carousel .container {
       position: relative;
       z-index: 9;
